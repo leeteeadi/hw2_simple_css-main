@@ -46,7 +46,7 @@ div {
 .intro {
     border-radius: 15px;
     margin-top: 15px;
-    line-height: 2; /* double-spaced text */
+    line-height: 2;
 }
 
 /* red class */
@@ -86,7 +86,7 @@ div {
 
 /* green class */
 .green {
-  background-color: #00D800; /* allowed option */
+  background-color: #008500;
   text-align: left;
   margin-right: 50px;
   border-right: 5px solid #ffffff;
@@ -109,7 +109,7 @@ footer {
 footer p {
   font-size: 20px;
   text-align: right;
-  padding: 15px 15px 15px 0; /* top right bottom left */
+  padding: 15px 15px 15px 0;
 }
 
 
